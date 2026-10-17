@@ -1,0 +1,111 @@
+{
+  "channels": [
+    {
+      "id": "demo1.overchoice",
+      "name": "Overchoice Demo 1",
+      "theme": "bars",
+      "url": "https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8",
+      "kind": "live 24/7 test card with clock"
+    },
+    {
+      "id": "demo2.overchoice",
+      "name": "Overchoice Demo 2",
+      "theme": "mixed",
+      "url": "https://virtual-channel.unified-streaming.com/demo_channel-stable.isml/.m3u8",
+      "kind": "live 24/7 looping virtual channel"
+    },
+    {
+      "id": "demo3.overchoice",
+      "name": "Overchoice Demo 3",
+      "theme": "bars",
+      "url": "https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8",
+      "kind": "live 24/7 test card with clock"
+    },
+    {
+      "id": "demo4.overchoice",
+      "name": "Overchoice Demo 4",
+      "theme": "bars",
+      "url": "https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8?hls_fmp4",
+      "kind": "live 24/7 test card with clock (fMP4 packaging)"
+    },
+    {
+      "id": "demo5.overchoice",
+      "name": "Overchoice Demo 5",
+      "theme": "pattern",
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+      "kind": "on-demand HLS test pattern, 30 min, ends"
+    },
+    {
+      "id": "demo6.overchoice",
+      "name": "Overchoice Demo 6",
+      "theme": "animation",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "kind": "on-demand HLS (Big Buck Bunny), 10.6 min, ends"
+    }
+  ],
+  "movies": [
+    {
+      "name": "Big Buck Bunny (2008)",
+      "poster": "big-buck-bunny.jpg",
+      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/big-buck-bunny.mp4",
+      "source": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+      "frame": 75,
+      "focus": 0.45
+    },
+    {
+      "name": "Elephants Dream (2006)",
+      "poster": "elephants-dream.jpg",
+      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/elephants-dream.mp4",
+      "source": "https://archive.org/download/ElephantsDream/ed_hd.mp4",
+      "frame": 75,
+      "focus": 0.6
+    },
+    {
+      "name": "Sintel (2010)",
+      "poster": "sintel.jpg",
+      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/sintel.mp4",
+      "source": "https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4",
+      "frame": 330,
+      "focus": 0.45
+    },
+    {
+      "name": "Tears of Steel (2012)",
+      "poster": "tears-of-steel.jpg",
+      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/tears-of-steel.mp4",
+      "source": "https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4",
+      "frame": 240,
+      "focus": 0.5
+    },
+    {
+      "name": "Sprite Fright (2021)",
+      "poster": "sprite-fright.jpg",
+      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/sprite-fright.mp4",
+      "source": "https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4",
+      "frame": 200,
+      "focus": 0.62
+    }
+  ],
+  "series": {
+    "name": "Caminandes",
+    "poster": "caminandes.jpg",
+    "frame": 45,
+    "focus": 0.42,
+    "episodes": [
+      {
+        "name": "Caminandes S01E01 Llama Drama",
+        "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e01.mp4",
+        "source": "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4"
+      },
+      {
+        "name": "Caminandes S01E02 Gran Dillama",
+        "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e02.mp4",
+        "source": "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4"
+      },
+      {
+        "name": "Caminandes S01E03 Llamigos",
+        "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e03.mp4",
+        "source": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4"
+      }
+    ]
+  }
+}

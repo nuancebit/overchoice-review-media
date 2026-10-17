@@ -1,0 +1,46 @@
+Licence notes for overchoice-review-media
+
+1. Scripts, data and logos (CC0 1.0)
+
+   scripts/, .github/, catalog.json, playlist.m3u, guide.xml and art/logos/ are dedicated to
+   the public domain under Creative Commons CC0 1.0 Universal:
+   https://creativecommons.org/publicdomain/zero/1.0/
+
+2. Posters (art/posters/)
+
+   Each poster is a single frame from the film it represents, cropped and scaled.
+   It is licensed under the same Creative Commons Attribution licence as that film, with the
+   attribution given in README.md:
+
+     big-buck-bunny.jpg      Big Buck Bunny (c) 2008 Blender Foundation, CC BY 3.0
+     elephants-dream.jpg     Elephants Dream (c) 2006 Blender Foundation / Netherlands Media Art Institute, CC BY 2.5
+     sintel.jpg              Sintel (c) 2010 Blender Foundation, CC BY 3.0
+     tears-of-steel.jpg      Tears of Steel (c) 2012 Blender Foundation, CC BY 3.0
+     sprite-fright.jpg       Sprite Fright (c) 2021 Blender Studio, CC BY 4.0
+     caminandes.jpg          Caminandes 1: Llama Drama (c) 2013 Blender Foundation, CC BY 3.0
+
+   Changes made: frame extracted, cropped to 2:3, scaled.
+
+3. Films (release media-v1)
+
+   The eight MP4 files attached to release media-v1 are copies of the Internet Archive files
+   listed in README.md and in catalog.json ("source"). Each keeps the Creative Commons
+   Attribution licence of its film and the attribution given in README.md:
+
+     big-buck-bunny.mp4      Big Buck Bunny (c) 2008 Blender Foundation, CC BY 3.0
+     elephants-dream.mp4     Elephants Dream (c) 2006 Blender Foundation / Netherlands Media Art Institute, CC BY 2.5
+     sintel.mp4              Sintel (c) 2010 Blender Foundation, CC BY 3.0
+     tears-of-steel.mp4      Tears of Steel (c) 2012 Blender Foundation, CC BY 3.0
+     sprite-fright.mp4       Sprite Fright (c) 2021 Blender Studio, CC BY 4.0
+     caminandes-s01e01.mp4   Caminandes 1: Llama Drama (c) 2013 Blender Foundation, CC BY 3.0
+     caminandes-s01e02.mp4   Caminandes 2: Gran Dillama (c) 2013 Blender Foundation, CC BY 3.0
+     caminandes-s01e03.mp4   Caminandes 3: Llamigos (c) 2016 Blender Foundation, CC BY 3.0
+
+   Changes made: re-muxed with the index (moov atom) at the start of the file for streaming
+   (ffmpeg -c copy -movflags +faststart). Audio and video are not re-encoded;
+   every packet and its timestamps are unchanged.
+
+4. Linked streams
+
+   The live test streams listed in playlist.m3u are not part of this repository. They are
+   played from their operators' hosts, under the terms of those hosts, as listed in README.md.

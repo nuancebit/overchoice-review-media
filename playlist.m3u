@@ -1,0 +1,30 @@
+#EXTM3U url-tvg="https://nuancebit.github.io/overchoice-review-media/guide.xml"
+#PLAYLIST:Overchoice Review
+#EXTINF:-1 tvg-id="demo1.overchoice" tvg-name="Overchoice Demo 1" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo1.png" group-title="Demo Channels",Overchoice Demo 1
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
+#EXTINF:-1 tvg-id="demo2.overchoice" tvg-name="Overchoice Demo 2" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo2.png" group-title="Demo Channels",Overchoice Demo 2
+https://virtual-channel.unified-streaming.com/demo_channel-stable.isml/.m3u8
+#EXTINF:-1 tvg-id="demo3.overchoice" tvg-name="Overchoice Demo 3" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo3.png" group-title="Demo Channels",Overchoice Demo 3
+https://demo.unified-streaming.com/k8s/live/stable/scte35.isml/.m3u8
+#EXTINF:-1 tvg-id="demo4.overchoice" tvg-name="Overchoice Demo 4" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo4.png" group-title="Demo Channels",Overchoice Demo 4
+https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8?hls_fmp4
+#EXTINF:-1 tvg-id="demo5.overchoice" tvg-name="Overchoice Demo 5" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo5.png" group-title="Demo Channels",Overchoice Demo 5
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 tvg-id="demo6.overchoice" tvg-name="Overchoice Demo 6" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo6.png" group-title="Demo Channels",Overchoice Demo 6
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-name="Big Buck Bunny (2008)" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/big-buck-bunny.jpg" group-title="Movies",Big Buck Bunny (2008)
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/big-buck-bunny.mp4
+#EXTINF:-1 tvg-name="Elephants Dream (2006)" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/elephants-dream.jpg" group-title="Movies",Elephants Dream (2006)
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/elephants-dream.mp4
+#EXTINF:-1 tvg-name="Sintel (2010)" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/sintel.jpg" group-title="Movies",Sintel (2010)
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/sintel.mp4
+#EXTINF:-1 tvg-name="Tears of Steel (2012)" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/tears-of-steel.jpg" group-title="Movies",Tears of Steel (2012)
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/tears-of-steel.mp4
+#EXTINF:-1 tvg-name="Sprite Fright (2021)" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/sprite-fright.jpg" group-title="Movies",Sprite Fright (2021)
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/sprite-fright.mp4
+#EXTINF:-1 tvg-name="Caminandes S01E01 Llama Drama" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/caminandes.jpg" group-title="Series",Caminandes S01E01 Llama Drama
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e01.mp4
+#EXTINF:-1 tvg-name="Caminandes S01E02 Gran Dillama" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/caminandes.jpg" group-title="Series",Caminandes S01E02 Gran Dillama
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e02.mp4
+#EXTINF:-1 tvg-name="Caminandes S01E03 Llamigos" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/posters/caminandes.jpg" group-title="Series",Caminandes S01E03 Llamigos
+https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e03.mp4
