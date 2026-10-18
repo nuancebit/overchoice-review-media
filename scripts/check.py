@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Checks playlist.m3u and guide.xml against each other.
 
-- the playlist parses to the expected number of entries (default 14), every entry has a URL;
+- the playlist parses to the expected number of entries (default 12), every entry has a URL;
 - every tvg-id in the playlist has a <channel> in the guide and the other way round;
 - per channel the programmes are contiguous: no gap, no overlap;
 - per channel the guide covers now (or --at) to --days days later (default 7).
 
 Usage: python3 scripts/check.py [--playlist playlist.m3u] [--guide guide.xml]
-                                [--entries 14] [--days 7] [--at 2026-10-17T12:00:00Z]
+                                [--entries 12] [--days 7] [--at 2026-10-17T12:00:00Z]
 Exit code 0 when everything holds, 1 otherwise. Standard library only.
 """
 import argparse
@@ -45,7 +45,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--playlist", default=str(ROOT / "playlist.m3u"))
     ap.add_argument("--guide", default=str(ROOT / "guide.xml"))
-    ap.add_argument("--entries", type=int, default=14)
+    ap.add_argument("--entries", type=int, default=12)
     ap.add_argument("--days", type=int, default=7)
     ap.add_argument("--at", help="ISO time to check coverage from; default: now")
     a = ap.parse_args()

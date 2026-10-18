@@ -2,9 +2,11 @@
 """Writes playlist.m3u from catalog.json.
 
 --base is the URL this repository's files are served from: the guide (url-tvg) and the
-channel logos and posters (tvg-logo) point there. Stream and film URLs are absolute and are
-taken from catalog.json as they are: the live channels play public test streams, the films and
-episodes play this repository's GitHub Release assets (tag media-v1).
+channel logos (tvg-logo) point there. Stream and film URLs are absolute and are taken from
+catalog.json as they are: the live channels play public test streams, the films play from
+Blender's own download server and the episodes from the Internet Archive. This repository
+hosts no film files. Films and episodes carry no tvg-logo: the app takes their posters from
+TMDb.
 
 Usage: python3 scripts/gen_playlist.py [--base URL] [--out playlist.m3u]
 Standard library only.
@@ -32,13 +34,11 @@ def build(catalog: dict, base: str) -> str:
                      f'tvg-logo="{attr(logo)}" group-title="Demo Channels",{ch["name"]}')
         lines.append(ch["url"])
     for mv in catalog["movies"]:
-        lines.append(f'#EXTINF:-1 tvg-name="{attr(mv["name"])}" tvg-logo="{attr(base)}/art/posters/{attr(mv["poster"])}" '
-                     f'group-title="Movies",{mv["name"]}')
+        lines.append(f'#EXTINF:-1 tvg-name="{attr(mv["name"])}" group-title="Movies",{mv["name"]}')
         lines.append(mv["url"])
     se = catalog["series"]
     for ep in se["episodes"]:
-        lines.append(f'#EXTINF:-1 tvg-name="{attr(ep["name"])}" tvg-logo="{attr(base)}/art/posters/{attr(se["poster"])}" '
-                     f'group-title="Series",{ep["name"]}')
+        lines.append(f'#EXTINF:-1 tvg-name="{attr(ep["name"])}" group-title="Series",{ep["name"]}')
         lines.append(ep["url"])
     return "\n".join(lines) + "\n"
 

@@ -45,66 +45,32 @@
   ],
   "movies": [
     {
-      "name": "Big Buck Bunny (2008)",
-      "poster": "big-buck-bunny.jpg",
-      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/big-buck-bunny.mp4",
-      "source": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
-      "frame": 75,
-      "focus": 0.45
-    },
-    {
       "name": "Elephants Dream (2006)",
-      "poster": "elephants-dream.jpg",
-      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/elephants-dream.mp4",
-      "source": "https://archive.org/download/ElephantsDream/ed_hd.mp4",
-      "frame": 75,
-      "focus": 0.6
-    },
-    {
-      "name": "Sintel (2010)",
-      "poster": "sintel.jpg",
-      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/sintel.mp4",
-      "source": "https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4",
-      "frame": 330,
-      "focus": 0.45
+      "url": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov"
     },
     {
       "name": "Tears of Steel (2012)",
-      "poster": "tears-of-steel.jpg",
-      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/tears-of-steel.mp4",
-      "source": "https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4",
-      "frame": 240,
-      "focus": 0.5
+      "url": "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
     },
     {
-      "name": "Sprite Fright (2021)",
-      "poster": "sprite-fright.jpg",
-      "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/sprite-fright.mp4",
-      "source": "https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4",
-      "frame": 200,
-      "focus": 0.62
+      "name": "Sintel (2010)",
+      "url": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"
     }
   ],
   "series": {
     "name": "Caminandes",
-    "poster": "caminandes.jpg",
-    "frame": 45,
-    "focus": 0.42,
     "episodes": [
       {
         "name": "Caminandes S01E01 Llama Drama",
-        "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e01.mp4",
-        "source": "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4"
+        "url": "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4"
       },
       {
         "name": "Caminandes S01E02 Gran Dillama",
-        "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e02.mp4",
-        "source": "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4"
+        "url": "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4"
       },
       {
         "name": "Caminandes S01E03 Llamigos",
-        "url": "https://github.com/nuancebit/overchoice-review-media/releases/download/media-v1/caminandes-s01e03.mp4",
-        "source": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4"
+        "url": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4"
       }
     ]
   }

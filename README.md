@@ -1,8 +1,9 @@
 # Overchoice review media
 
 This repository exists so that app reviewers and testers can try the Overchoice app with
-legal sample content. It holds one M3U playlist, a programme guide (XMLTV), artwork and,
-as release assets, eight Creative Commons films by the Blender Foundation / Blender Studio.
+legal sample content. It holds one M3U playlist, a programme guide (XMLTV) and six channel
+logos. **It hosts no film files**: the playlist links to Creative Commons films by the Blender
+Foundation / Blender Studio where their makers and the Internet Archive publish them.
 
 **Playlist URL (enter this in the app as an M3U source):**
 
@@ -18,17 +19,24 @@ with no extra setup.
 | Section | Entries | Played from |
 |---|---|---|
 | Live | Overchoice Demo 1-6 | Public test streams (see below) |
-| Movies | Big Buck Bunny, Elephants Dream, Sintel, Tears of Steel, Sprite Fright | Release [`media-v1`](https://github.com/nuancebit/overchoice-review-media/releases/tag/media-v1) of this repository |
-| Series | Caminandes S01E01-E03 | Release `media-v1` of this repository |
+| Movies | Elephants Dream, Tears of Steel, Sintel | Blender's download server (`download.blender.org`), linked |
+| Series | Caminandes S01E01-E03 | The Internet Archive (`archive.org`), linked |
 
 ### Films
 
-The films are unchanged copies of the Internet Archive files listed under Attribution.
-Each was only re-muxed for streaming
-(`ffmpeg -i in.mp4 -map 0 -c copy -video_track_timescale <source timescale> -movflags +faststart out.mp4`):
-the index (`moov` atom) moves to the start of the file so a player can start without reading
-the end of the file first. Audio and video are not re-encoded: every audio and video packet,
-with its timestamps, is identical to the source, and so is the duration. The release notes list each file with its source.
+The playlist only links to the films; nothing is copied into this repository. The movies play
+from the files Blender publishes on `download.blender.org`, the Caminandes episodes from the
+Internet Archive. Films and episodes carry no artwork in the playlist: the app finds their
+posters itself.
+
+| Entry | File |
+|---|---|
+| Elephants Dream (2006) | [elephantsdream-720-h264-st-aac.mov](https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov) |
+| Tears of Steel (2012) | [tears_of_steel_720p.mov](https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov) |
+| Sintel (2010) | [Sintel.2010.1080p.mkv](https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv) |
+| Caminandes S01E01 Llama Drama | [archive.org/details/Caminandes1LlamaDrama](https://archive.org/details/Caminandes1LlamaDrama) |
+| Caminandes S01E02 Gran Dillama | [archive.org/details/Caminandes2GranDillama](https://archive.org/details/Caminandes2GranDillama) |
+| Caminandes S01E03 Llamigos | [archive.org/details/CaminandesLlamigos](https://archive.org/details/CaminandesLlamigos) |
 
 ### Live demo channels
 
@@ -60,48 +68,39 @@ To regenerate by hand:
 ```
 python3 scripts/gen_guide.py      # guide.xml, 7 days (--days N to change)
 python3 scripts/gen_playlist.py   # playlist.m3u from catalog.json
-python3 scripts/check.py          # 14 entries, channel ids match, no gaps or overlaps, now -> +7 days
+python3 scripts/check.py          # 12 entries, channel ids match, no gaps or overlaps, now -> +7 days
 ```
 
 The scripts use the Python standard library only, and the guide depends only on the date, so
 two runs on the same day produce the same file. `catalog.json` is the single list of channels,
-films and episodes; for each film it keeps the release URL (`url`) and the original Internet
-Archive file (`source`). Both generators take `--base URL` to serve the site from elsewhere.
+films and episodes, each with the URL the playlist links to. Both generators take `--base URL`
+to serve the site from elsewhere.
 
-## Attribution
+## Credits
 
-All films are by the Blender Foundation / Blender Studio and are licensed under Creative
-Commons Attribution licences. The files in release `media-v1` are copies of the Internet
-Archive files below, re-muxed for streaming as described above (no other change).
+The films are by the Blender Foundation / Blender Studio and are published under Creative
+Commons Attribution licences ([Blender Studio terms](https://studio.blender.org/terms-and-conditions/)).
+This repository hosts none of them; it only links to the files listed above.
 
-| Title | Year | Author | Licence | Source |
-|---|---|---|---|---|
-| Big Buck Bunny | 2008 | Blender Foundation (Peach open movie project), www.bigbuckbunny.org | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [peach.blender.org/about](https://peach.blender.org/about/), file: [archive.org/details/BigBuckBunny_124](https://archive.org/details/BigBuckBunny_124) |
-| Elephants Dream | 2006 | Blender Foundation / Netherlands Media Art Institute (Orange open movie project), orange.blender.org | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/) | [orange.blender.org](https://orange.blender.org/), file: [archive.org/details/ElephantsDream](https://archive.org/details/ElephantsDream) |
-| Sintel | 2010 | Blender Foundation (Durian open movie project), www.sintel.org | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [durian.blender.org/sharing](https://durian.blender.org/sharing/), file: [archive.org/details/Sintel](https://archive.org/details/Sintel) |
-| Tears of Steel | 2012 | Blender Foundation (Mango open movie project), mango.blender.org | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [mango.blender.org/sharing](https://mango.blender.org/sharing/), file: [archive.org/details/Tears-of-Steel](https://archive.org/details/Tears-of-Steel) |
-| Sprite Fright | 2021 | Blender Studio | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [studio.blender.org/projects/sprite-fright](https://studio.blender.org/projects/sprite-fright/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sprite_Fright_-_Blender_Open_Movie-full_movie.webm), file: [archive.org/details/sprite-fright](https://archive.org/details/sprite-fright) |
-| Caminandes 1: Llama Drama | 2013 | Pablo Vazquez, Beorn Leonard, Francesco Siddi; music Jan Morgenstern; Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caminandes-_Llama_Drama_-_Short_Movie.ogv), file: [archive.org/details/Caminandes1LlamaDrama](https://archive.org/details/Caminandes1LlamaDrama) |
-| Caminandes 2: Gran Dillama | 2013 | Pablo Vazquez, Beorn Leonard, Francesco Siddi; music Jan Morgenstern; Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [caminandes.com/sharing (archived)](https://web.archive.org/web/2017/http://www.caminandes.com/sharing/), file: [archive.org/details/Caminandes2GranDillama](https://archive.org/details/Caminandes2GranDillama) |
-| Caminandes 3: Llamigos | 2016 | Pablo Vazquez and the Blender Institute team; Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm), file: [archive.org/details/CaminandesLlamigos](https://archive.org/details/CaminandesLlamigos) |
-
-All files are H.264 video with AAC stereo audio, in the versions the Internet Archive offers:
-Big Buck Bunny and Elephants Dream 640x360, Tears of Steel 862x360, Sintel 564x240,
-Sprite Fright 1920x804, Caminandes 1-3 1920x1080. Together about 694 MB.
-
-The posters in `art/posters/` are single frames from these films, cropped to 2:3 and scaled.
-They are adaptations of the films above and are shared under the same licence as the film
-they come from, with the same attribution.
+| Film | Year | By | Licence |
+|---|---|---|---|
+| [Elephants Dream](https://orange.blender.org/) | 2006 | Blender Foundation / Netherlands Media Art Institute | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/) |
+| [Tears of Steel](https://mango.blender.org/) | 2012 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| [Sintel](https://durian.blender.org/) | 2010 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| [Caminandes 1: Llama Drama](https://archive.org/details/Caminandes1LlamaDrama) | 2013 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| [Caminandes 2: Gran Dillama](https://studio.blender.org/projects/caminandes-2/) | 2013 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| [Caminandes 3: Llamigos](https://studio.blender.org/projects/caminandes-3/) | 2016 | Blender Studio | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 The test streams on the live channels belong to their operators (Unified Streaming,
 Apple, Mux) and are linked, not copied. They are published by those operators for testing
-streaming players. The Big Buck Bunny footage in the Mux stream is the CC BY 3.0 film credited
-above.
+streaming players. The Mux stream shows Big Buck Bunny (2008, Blender Foundation,
+[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)).
 
 ## Licence of this repository
 
-See [LICENSE](LICENSE). In short: the scripts, the playlist, the guide and the channel
-logos are released under CC0 1.0; the posters and the films follow the licence of their film.
+See [LICENSE](LICENSE). In short: the scripts, the data, the playlist, the guide and the
+channel logos are released under CC0 1.0. The linked films and streams are not part of this
+repository.
 
 ## Contact
 
