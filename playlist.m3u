@@ -12,15 +12,13 @@ https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8?hls_fmp4
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 #EXTINF:-1 tvg-id="demo6.overchoice" tvg-name="Overchoice Demo 6" tvg-logo="https://nuancebit.github.io/overchoice-review-media/art/logos/demo6.png" group-title="Demo Channels",Overchoice Demo 6
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Elephants Dream (2006)" group-title="Movies",Elephants Dream (2006)
+#EXTINF:-1 tvg-name="Elephants Dream (2006)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ElephantsDreamPoster.jpg/500px-ElephantsDreamPoster.jpg" group-title="Movies",Elephants Dream (2006)
 https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov
-#EXTINF:-1 tvg-name="Tears of Steel (2012)" group-title="Movies",Tears of Steel (2012)
+#EXTINF:-1 tvg-name="Tears of Steel (2012)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/500px-Tos-poster.png" group-title="Movies",Tears of Steel (2012)
 https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
-#EXTINF:-1 tvg-name="Sintel (2010)" group-title="Movies",Sintel (2010)
-https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv
-#EXTINF:-1 tvg-name="Caminandes S01E01 Llama Drama" group-title="Series",Caminandes S01E01 Llama Drama
+#EXTINF:-1 tvg-name="Caminandes S01E01 Llama Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png" group-title="Series",Caminandes S01E01 Llama Drama
 https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
-#EXTINF:-1 tvg-name="Caminandes S01E02 Gran Dillama" group-title="Series",Caminandes S01E02 Gran Dillama
+#EXTINF:-1 tvg-name="Caminandes S01E02 Gran Dillama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png" group-title="Series",Caminandes S01E02 Gran Dillama
 https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
-#EXTINF:-1 tvg-name="Caminandes S01E03 Llamigos" group-title="Series",Caminandes S01E03 Llamigos
+#EXTINF:-1 tvg-name="Caminandes S01E03 Llamigos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png" group-title="Series",Caminandes S01E03 Llamigos
 https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4

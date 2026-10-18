@@ -5,8 +5,8 @@
 channel logos (tvg-logo) point there. Stream and film URLs are absolute and are taken from
 catalog.json as they are: the live channels play public test streams, the films play from
 Blender's own download server and the episodes from the Internet Archive. This repository
-hosts no film files. Films and episodes carry no tvg-logo: the app takes their posters from
-TMDb.
+hosts no film files. Films and the show carry a tvg-logo that links to the official poster or
+cover on Wikimedia Commons (catalog.json "logo"); nothing is copied here.
 
 Usage: python3 scripts/gen_playlist.py [--base URL] [--out playlist.m3u]
 Standard library only.
@@ -34,11 +34,13 @@ def build(catalog: dict, base: str) -> str:
                      f'tvg-logo="{attr(logo)}" group-title="Demo Channels",{ch["name"]}')
         lines.append(ch["url"])
     for mv in catalog["movies"]:
-        lines.append(f'#EXTINF:-1 tvg-name="{attr(mv["name"])}" group-title="Movies",{mv["name"]}')
+        logo = f' tvg-logo="{attr(mv["logo"])}"' if mv.get("logo") else ""
+        lines.append(f'#EXTINF:-1 tvg-name="{attr(mv["name"])}"{logo} group-title="Movies",{mv["name"]}')
         lines.append(mv["url"])
     se = catalog["series"]
+    se_logo = f' tvg-logo="{attr(se["logo"])}"' if se.get("logo") else ""
     for ep in se["episodes"]:
-        lines.append(f'#EXTINF:-1 tvg-name="{attr(ep["name"])}" group-title="Series",{ep["name"]}')
+        lines.append(f'#EXTINF:-1 tvg-name="{attr(ep["name"])}"{se_logo} group-title="Series",{ep["name"]}')
         lines.append(ep["url"])
     return "\n".join(lines) + "\n"
 

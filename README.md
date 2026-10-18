@@ -19,21 +19,20 @@ with no extra setup.
 | Section | Entries | Played from |
 |---|---|---|
 | Live | Overchoice Demo 1-6 | Public test streams (see below) |
-| Movies | Elephants Dream, Tears of Steel, Sintel | Blender's download server (`download.blender.org`), linked |
+| Movies | Elephants Dream, Tears of Steel | Blender's download server (`download.blender.org`), linked |
 | Series | Caminandes S01E01-E03 | The Internet Archive (`archive.org`), linked |
 
 ### Films
 
 The playlist only links to the films; nothing is copied into this repository. The movies play
 from the files Blender publishes on `download.blender.org`, the Caminandes episodes from the
-Internet Archive. Films and episodes carry no artwork in the playlist: the app finds their
-posters itself.
+Internet Archive. Their artwork (`tvg-logo`) links to the official posters on Wikimedia
+Commons; no image is copied here either (see Credits).
 
 | Entry | File |
 |---|---|
 | Elephants Dream (2006) | [elephantsdream-720-h264-st-aac.mov](https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov) |
 | Tears of Steel (2012) | [tears_of_steel_720p.mov](https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov) |
-| Sintel (2010) | [Sintel.2010.1080p.mkv](https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv) |
 | Caminandes S01E01 Llama Drama | [archive.org/details/Caminandes1LlamaDrama](https://archive.org/details/Caminandes1LlamaDrama) |
 | Caminandes S01E02 Gran Dillama | [archive.org/details/Caminandes2GranDillama](https://archive.org/details/Caminandes2GranDillama) |
 | Caminandes S01E03 Llamigos | [archive.org/details/CaminandesLlamigos](https://archive.org/details/CaminandesLlamigos) |
@@ -68,7 +67,7 @@ To regenerate by hand:
 ```
 python3 scripts/gen_guide.py      # guide.xml, 7 days (--days N to change)
 python3 scripts/gen_playlist.py   # playlist.m3u from catalog.json
-python3 scripts/check.py          # 12 entries, channel ids match, no gaps or overlaps, now -> +7 days
+python3 scripts/check.py          # 11 entries, channel ids match, no gaps or overlaps, now -> +7 days
 ```
 
 The scripts use the Python standard library only, and the guide depends only on the date, so
@@ -86,10 +85,17 @@ This repository hosts none of them; it only links to the files listed above.
 |---|---|---|---|
 | [Elephants Dream](https://orange.blender.org/) | 2006 | Blender Foundation / Netherlands Media Art Institute | [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/) |
 | [Tears of Steel](https://mango.blender.org/) | 2012 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
-| [Sintel](https://durian.blender.org/) | 2010 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | [Caminandes 1: Llama Drama](https://archive.org/details/Caminandes1LlamaDrama) | 2013 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | [Caminandes 2: Gran Dillama](https://studio.blender.org/projects/caminandes-2/) | 2013 | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 | [Caminandes 3: Llamigos](https://studio.blender.org/projects/caminandes-3/) | 2016 | Blender Studio | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+
+Artwork, linked from Wikimedia Commons (not copied):
+
+| Image | By | Licence |
+|---|---|---|
+| [Elephants Dream poster](https://commons.wikimedia.org/wiki/File:ElephantsDreamPoster.jpg) | Bassam Kurdali, Andy Goralczyk, Blender Foundation | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| [Tears of Steel poster](https://commons.wikimedia.org/wiki/File:Tos-poster.png) | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
+| [Caminandes 2 cover](https://commons.wikimedia.org/wiki/File:Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png) | Blender Foundation | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) |
 
 The test streams on the live channels belong to their operators (Unified Streaming,
 Apple, Mux) and are linked, not copied. They are published by those operators for testing

@@ -46,15 +46,13 @@
   "movies": [
     {
       "name": "Elephants Dream (2006)",
-      "url": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov"
+      "url": "https://download.blender.org/ED/elephantsdream-720-h264-st-aac.mov",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ElephantsDreamPoster.jpg/500px-ElephantsDreamPoster.jpg"
     },
     {
       "name": "Tears of Steel (2012)",
-      "url": "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov"
-    },
-    {
-      "name": "Sintel (2010)",
-      "url": "https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv"
+      "url": "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/500px-Tos-poster.png"
     }
   ],
   "series": {
@@ -72,6 +70,7 @@
         "name": "Caminandes S01E03 Llamigos",
         "url": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4"
       }
-    ]
+    ],
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png/500px-Blender_Foundation_-_Caminandes_-_Episode_2_-_Gran_Dillama_-_Cover_thumbnail.png"
   }
 }
