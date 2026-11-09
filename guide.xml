@@ -25,86 +25,6 @@
     <display-name lang="en">Overchoice Demo 6</display-name>
     <icon src="https://nuancebit.github.io/overchoice-review-media/art/logos/demo6.png"/>
   </channel>
-  <programme start="20261108000000 +0000" stop="20261108020000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108030000 +0000" stop="20261108050000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108080000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108090000 +0000" stop="20261108110000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108120000 +0000" stop="20261108140000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108150000 +0000" stop="20261108170000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108180000 +0000" stop="20261108200000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108210000 +0000" stop="20261108230000 +0000" channel="demo1.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="demo1.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
-  </programme>
   <programme start="20261109000000 +0000" stop="20261109020000 +0000" channel="demo1.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
@@ -665,185 +585,85 @@
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108000000 +0000" stop="20261108010000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108010000 +0000" stop="20261108013000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108030000 +0000" stop="20261108033000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116060000 +0000" stop="20261116080000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108040000 +0000" stop="20261108050000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116120000 +0000" stop="20261116140000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108070000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108070000 +0000" stop="20261108073000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108073000 +0000" stop="20261108080000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116210000 +0000" stop="20261116230000 +0000" channel="demo1.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108100000 +0000" stop="20261108110000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108120000 +0000" stop="20261108130000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108153000 +0000" stop="20261108160000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108160000 +0000" stop="20261108170000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108190000 +0000" stop="20261108193000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108193000 +0000" stop="20261108200000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108210000 +0000" stop="20261108213000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108213000 +0000" stop="20261108220000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108220000 +0000" stop="20261108230000 +0000" channel="demo2.overchoice">
-    <title lang="en">Streaming Showcase</title>
-    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108230000 +0000" stop="20261108233000 +0000" channel="demo2.overchoice">
-    <title lang="en">Studio Reel</title>
-    <desc lang="en">Short clips from the looping demonstration channel.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261108233000 +0000" stop="20261109000000 +0000" channel="demo2.overchoice">
-    <title lang="en">Showcase Replay</title>
-    <desc lang="en">The demonstration loop continues.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="demo1.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
+    <category lang="en">Technical</category>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="demo2.overchoice">
     <title lang="en">Streaming Showcase</title>
@@ -2105,85 +1925,185 @@
     <desc lang="en">The demonstration loop continues.</desc>
     <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108000000 +0000" stop="20261108020000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108030000 +0000" stop="20261108050000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108080000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108090000 +0000" stop="20261108110000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108140000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108150000 +0000" stop="20261108170000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261108200000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108210000 +0000" stop="20261108230000 +0000" channel="demo3.overchoice">
-    <title lang="en">Test Card</title>
-    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="demo3.overchoice">
-    <title lang="en">Signal Check</title>
-    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
-    <category lang="en">Technical</category>
+  <programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116130000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116220000 +0000" stop="20261116230000 +0000" channel="demo2.overchoice">
+    <title lang="en">Streaming Showcase</title>
+    <desc lang="en">A looping demonstration channel of short clips and presentations.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="demo2.overchoice">
+    <title lang="en">Studio Reel</title>
+    <desc lang="en">Short clips from the looping demonstration channel.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="demo2.overchoice">
+    <title lang="en">Showcase Replay</title>
+    <desc lang="en">The demonstration loop continues.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109020000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
@@ -2745,82 +2665,82 @@
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108000000 +0000" stop="20261108020000 +0000" channel="demo4.overchoice">
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="demo4.overchoice">
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108030000 +0000" stop="20261108050000 +0000" channel="demo4.overchoice">
+  <programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="demo4.overchoice">
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108080000 +0000" channel="demo4.overchoice">
+  <programme start="20261116060000 +0000" stop="20261116080000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="demo4.overchoice">
+  <programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108090000 +0000" stop="20261108110000 +0000" channel="demo4.overchoice">
+  <programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="demo4.overchoice">
+  <programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108140000 +0000" channel="demo4.overchoice">
+  <programme start="20261116120000 +0000" stop="20261116140000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="demo4.overchoice">
+  <programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108150000 +0000" stop="20261108170000 +0000" channel="demo4.overchoice">
+  <programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="demo4.overchoice">
+  <programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261108200000 +0000" channel="demo4.overchoice">
+  <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="demo4.overchoice">
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108210000 +0000" stop="20261108230000 +0000" channel="demo4.overchoice">
+  <programme start="20261116210000 +0000" stop="20261116230000 +0000" channel="demo3.overchoice">
     <title lang="en">Test Card</title>
     <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="demo4.overchoice">
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="demo3.overchoice">
     <title lang="en">Signal Check</title>
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
@@ -3385,244 +3305,84 @@
     <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108000000 +0000" stop="20261108003000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108003000 +0000" stop="20261108010000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108010000 +0000" stop="20261108013000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116030000 +0000" stop="20261116050000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108020000 +0000" stop="20261108023000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116060000 +0000" stop="20261116080000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108023000 +0000" stop="20261108030000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108030000 +0000" stop="20261108033000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116120000 +0000" stop="20261116140000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108043000 +0000" stop="20261108050000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108050000 +0000" stop="20261108053000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108063000 +0000" stop="20261108070000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108070000 +0000" stop="20261108073000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116210000 +0000" stop="20261116230000 +0000" channel="demo4.overchoice">
+    <title lang="en">Test Card</title>
+    <desc lang="en">Colour bars with an on-screen clock. A continuous test signal for checking picture and sound.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108073000 +0000" stop="20261108080000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108080000 +0000" stop="20261108083000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108083000 +0000" stop="20261108090000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108090000 +0000" stop="20261108093000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108093000 +0000" stop="20261108100000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108153000 +0000" stop="20261108160000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108160000 +0000" stop="20261108163000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108170000 +0000" stop="20261108173000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108173000 +0000" stop="20261108180000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108180000 +0000" stop="20261108183000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108183000 +0000" stop="20261108190000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108190000 +0000" stop="20261108193000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108193000 +0000" stop="20261108200000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108200000 +0000" stop="20261108203000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108203000 +0000" stop="20261108210000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108210000 +0000" stop="20261108213000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108213000 +0000" stop="20261108220000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108220000 +0000" stop="20261108223000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108223000 +0000" stop="20261108230000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108230000 +0000" stop="20261108233000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
-    <category lang="en">Technical</category>
-  </programme>
-  <programme start="20261108233000 +0000" stop="20261109000000 +0000" channel="demo5.overchoice">
-    <title lang="en">Pattern and Tone</title>
-    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="demo4.overchoice">
+    <title lang="en">Signal Check</title>
+    <desc lang="en">Colour bars and a reference tone with the current time.</desc>
     <category lang="en">Technical</category>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="demo5.overchoice">
@@ -5305,125 +5065,245 @@
     <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
     <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108000000 +0000" stop="20261108010000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108010000 +0000" stop="20261108020000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108020000 +0000" stop="20261108030000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108030000 +0000" stop="20261108040000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116013000 +0000" stop="20261116020000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108040000 +0000" stop="20261108050000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116020000 +0000" stop="20261116023000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116023000 +0000" stop="20261116030000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108060000 +0000" stop="20261108070000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108070000 +0000" stop="20261108080000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108090000 +0000" stop="20261108100000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108100000 +0000" stop="20261108110000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108120000 +0000" stop="20261108130000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116063000 +0000" stop="20261116070000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116070000 +0000" stop="20261116073000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108150000 +0000" stop="20261108160000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108160000 +0000" stop="20261108170000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108190000 +0000" stop="20261108200000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108200000 +0000" stop="20261108210000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108220000 +0000" stop="20261108230000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
-  <programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="demo6.overchoice">
-    <title lang="en">Animation Hour</title>
-    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
-    <category lang="en">Animation</category>
+  <programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116123000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116143000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116143000 +0000" stop="20261116150000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116183000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116203000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
+  </programme>
+  <programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="demo5.overchoice">
+    <title lang="en">Pattern and Tone</title>
+    <desc lang="en">A counting test pattern with a beep, for checking audio and video sync.</desc>
+    <category lang="en">Technical</category>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="demo6.overchoice">
     <title lang="en">Animation Hour</title>
@@ -6261,6 +6141,126 @@
     <category lang="en">Animation</category>
   </programme>
   <programme start="20261115230000 +0000" stop="20261116000000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116060000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116070000 +0000" stop="20261116080000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116090000 +0000" stop="20261116100000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116100000 +0000" stop="20261116110000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116120000 +0000" stop="20261116130000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116130000 +0000" stop="20261116140000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116190000 +0000" stop="20261116200000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116210000 +0000" stop="20261116220000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116220000 +0000" stop="20261116230000 +0000" channel="demo6.overchoice">
+    <title lang="en">Animation Hour</title>
+    <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="demo6.overchoice">
     <title lang="en">Animation Hour</title>
     <desc lang="en">Big Buck Bunny, an open movie by the Blender Foundation (CC BY 3.0), from the start.</desc>
     <category lang="en">Animation</category>
